@@ -14,6 +14,7 @@
 ./firehol-lists/blocklist_net_ua.ipset
 ./firehol-lists/botscout_30d.ipset
 ./firehol-lists/ciarmy.ipset
+./firehol-lists/cleantalk_1d.ipset
 ./firehol-lists/cleantalk_30d.ipset
 ./firehol-lists/cleantalk_7d.ipset
 ./firehol-lists/cleantalk_new_30d.ipset
@@ -119,7 +120,6 @@
 ./firehol-lists/ipip_country/ipip_country_ua.netset
 ./firehol-lists/lashback_ubl.ipset
 ./firehol-lists/nullsecure.ipset
-./firehol-lists/proxylists_30d.ipset
 ./firehol-lists/socks_proxy_30d.ipset
 ./firehol-lists/socks_proxy_7d.ipset
 ./firehol-lists/stopforumspam.ipset
@@ -135,4 +135,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.CX8Egnj2re
+/tmp/tmp.uHfGzndOW8
