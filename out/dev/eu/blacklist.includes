@@ -5,8 +5,10 @@
 ./firehol-lists/bi_any_1_7d.ipset
 ./firehol-lists/bi_any_2_30d.ipset
 ./firehol-lists/bi_any_2_7d.ipset
+./firehol-lists/bi_ssh_0_1d.ipset
 ./firehol-lists/bi_ssh_1_7d.ipset
 ./firehol-lists/bi_ssh_2_30d.ipset
+./firehol-lists/bi_sshd_0_1d.ipset
 ./firehol-lists/bitcoin_nodes_30d.ipset
 ./firehol-lists/blocklist_de.ipset
 ./firehol-lists/blocklist_de_mail.ipset
@@ -54,7 +56,6 @@
 ./firehol-lists/hphosts_emd.ipset
 ./firehol-lists/hphosts_fsa.ipset
 ./firehol-lists/hphosts_psh.ipset
-./firehol-lists/iblocklist_ciarmy_malicious.netset
 ./firehol-lists/iblocklist_pedophiles.netset
 ./firehol-lists/ip2location_country/ip2location_continent_af.netset
 ./firehol-lists/ip2location_country/ip2location_continent_as.netset
@@ -119,7 +120,6 @@
 ./firehol-lists/ipip_country/ipip_country_ua.netset
 ./firehol-lists/lashback_ubl.ipset
 ./firehol-lists/nullsecure.ipset
-./firehol-lists/proxylists_30d.ipset
 ./firehol-lists/socks_proxy_30d.ipset
 ./firehol-lists/socks_proxy_7d.ipset
 ./firehol-lists/stopforumspam.ipset
@@ -135,4 +135,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.GXMqtHbgTH
+/tmp/tmp.GyKVrZnxVZ
