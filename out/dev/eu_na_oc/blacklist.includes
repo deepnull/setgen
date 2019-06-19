@@ -45,7 +45,6 @@
 ./firehol-lists/geolite2_country/country_ro.netset
 ./firehol-lists/geolite2_country/country_rs.netset
 ./firehol-lists/geolite2_country/country_ru.netset
-./firehol-lists/geolite2_country/country_ru.netset
 ./firehol-lists/geolite2_country/country_si.netset
 ./firehol-lists/geolite2_country/country_sk.netset
 ./firehol-lists/geolite2_country/country_ua.netset
@@ -70,7 +69,6 @@
 ./firehol-lists/ip2location_country/ip2location_country_ro.netset
 ./firehol-lists/ip2location_country/ip2location_country_rs.netset
 ./firehol-lists/ip2location_country/ip2location_country_ru.netset
-./firehol-lists/ip2location_country/ip2location_country_ru.netset
 ./firehol-lists/ip2location_country/ip2location_country_si.netset
 ./firehol-lists/ip2location_country/ip2location_country_sk.netset
 ./firehol-lists/ip2location_country/ip2location_country_ua.netset
@@ -88,7 +86,6 @@
 ./firehol-lists/ipdeny_country/id_country_nz.netset
 ./firehol-lists/ipdeny_country/id_country_ro.netset
 ./firehol-lists/ipdeny_country/id_country_rs.netset
-./firehol-lists/ipdeny_country/id_country_ru.netset
 ./firehol-lists/ipdeny_country/id_country_ru.netset
 ./firehol-lists/ipdeny_country/id_country_si.netset
 ./firehol-lists/ipdeny_country/id_country_sk.netset
@@ -108,7 +105,6 @@
 ./firehol-lists/ipip_country/ipip_country_nz.netset
 ./firehol-lists/ipip_country/ipip_country_ro.netset
 ./firehol-lists/ipip_country/ipip_country_rs.netset
-./firehol-lists/ipip_country/ipip_country_ru.netset
 ./firehol-lists/ipip_country/ipip_country_ru.netset
 ./firehol-lists/ipip_country/ipip_country_si.netset
 ./firehol-lists/ipip_country/ipip_country_sk.netset
@@ -131,4 +127,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.hfmPM8ERRH
+/tmp/tmp.YAV8aUaEiU
