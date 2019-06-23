@@ -6,6 +6,7 @@
 ./firehol-lists/bi_any_2_30d.ipset
 ./firehol-lists/bi_any_2_7d.ipset
 ./firehol-lists/bi_mail_0_1d.ipset
+./firehol-lists/bi_ssh_0_1d.ipset
 ./firehol-lists/bi_ssh_2_30d.ipset
 ./firehol-lists/bitcoin_nodes_30d.ipset
 ./firehol-lists/blocklist_de.ipset
@@ -47,7 +48,6 @@
 ./firehol-lists/geolite2_country/country_si.netset
 ./firehol-lists/geolite2_country/country_sk.netset
 ./firehol-lists/geolite2_country/country_ua.netset
-./firehol-lists/gpf_comics.ipset
 ./firehol-lists/haley_ssh.ipset
 ./firehol-lists/hphosts_ats.ipset
 ./firehol-lists/hphosts_emd.ipset
@@ -131,4 +131,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.Y50dHhSwKe
+/tmp/tmp.0IcNcaQgkV
