@@ -7,6 +7,7 @@
 ./firehol-lists/bi_any_2_7d.ipset
 ./firehol-lists/bi_badbots_0_1d.ipset
 ./firehol-lists/bi_bruteforce_0_1d.ipset
+./firehol-lists/bi_ssh_0_1d.ipset
 ./firehol-lists/bitcoin_nodes_30d.ipset
 ./firehol-lists/blocklist_de.ipset
 ./firehol-lists/blocklist_de_mail.ipset
@@ -18,7 +19,6 @@
 ./firehol-lists/cleantalk_new_30d.ipset
 ./firehol-lists/cleantalk_new_7d.ipset
 ./firehol-lists/cleantalk_updated_30d.ipset
-./firehol-lists/cleantalk_updated_7d.ipset
 ./firehol-lists/esentire_crazyerror_su.ipset
 ./firehol-lists/esentire_dorttlokolrt_com.ipset
 ./firehol-lists/esentire_emptyarray_ru.ipset
@@ -137,4 +137,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.tTFICuI1Ml
+/tmp/tmp.U5gDsbULqn
