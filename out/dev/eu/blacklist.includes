@@ -47,6 +47,7 @@
 ./firehol-lists/geolite2_country/country_si.netset
 ./firehol-lists/geolite2_country/country_sk.netset
 ./firehol-lists/geolite2_country/country_ua.netset
+./firehol-lists/gpf_comics.ipset
 ./firehol-lists/haley_ssh.ipset
 ./firehol-lists/hphosts_emd.ipset
 ./firehol-lists/hphosts_fsa.ipset
@@ -120,7 +121,6 @@
 ./firehol-lists/proxylists_30d.ipset
 ./firehol-lists/proxylists_7d.ipset
 ./firehol-lists/socks_proxy_30d.ipset
-./firehol-lists/socks_proxy_7d.ipset
 ./firehol-lists/sslproxies_30d.ipset
 ./firehol-lists/stopforumspam.ipset
 ./firehol-lists/stopforumspam_180d.ipset
@@ -135,4 +135,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.UrWkQuUHyU
+/tmp/tmp.7AmhUWvRd1
