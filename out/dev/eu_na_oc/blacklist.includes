@@ -3,14 +3,14 @@
 ./firehol-lists/alienvault_reputation.ipset
 ./firehol-lists/bi_any_0_1d.ipset
 ./firehol-lists/bi_any_2_30d.ipset
-./firehol-lists/bi_ssh_0_1d.ipset
+./firehol-lists/bi_badbots_0_1d.ipset
+./firehol-lists/bi_bruteforce_0_1d.ipset
 ./firehol-lists/bitcoin_nodes_30d.ipset
 ./firehol-lists/blocklist_de.ipset
 ./firehol-lists/blocklist_de_mail.ipset
 ./firehol-lists/blocklist_net_ua.ipset
 ./firehol-lists/botscout_30d.ipset
 ./firehol-lists/ciarmy.ipset
-./firehol-lists/cleanmx_viruses.ipset
 ./firehol-lists/cleantalk_30d.ipset
 ./firehol-lists/cleantalk_7d.ipset
 ./firehol-lists/cleantalk_new_30d.ipset
@@ -127,4 +127,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.Rh1D598nX1
+/tmp/tmp.4qXKkFZlEp
