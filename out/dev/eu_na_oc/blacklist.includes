@@ -2,12 +2,16 @@
 ./firehol-lists/alienvault_reputation.ipset
 ./firehol-lists/alienvault_reputation.ipset
 ./firehol-lists/bi_any_0_1d.ipset
+./firehol-lists/bi_any_1_7d.ipset
 ./firehol-lists/bi_any_2_30d.ipset
-./firehol-lists/bi_badbots_0_1d.ipset
-./firehol-lists/bi_bruteforce_0_1d.ipset
+./firehol-lists/bi_any_2_7d.ipset
+./firehol-lists/bi_mail_0_1d.ipset
+./firehol-lists/bi_postfix-sasl_0_1d.ipset
+./firehol-lists/bi_ssh_0_1d.ipset
 ./firehol-lists/bitcoin_nodes_30d.ipset
 ./firehol-lists/blocklist_de.ipset
 ./firehol-lists/blocklist_de_mail.ipset
+./firehol-lists/blocklist_de_ssh.ipset
 ./firehol-lists/blocklist_net_ua.ipset
 ./firehol-lists/botscout_30d.ipset
 ./firehol-lists/ciarmy.ipset
@@ -16,10 +20,10 @@
 ./firehol-lists/cleantalk_new_30d.ipset
 ./firehol-lists/cleantalk_new_7d.ipset
 ./firehol-lists/cleantalk_updated_30d.ipset
-./firehol-lists/cleantalk_updated_7d.ipset
 ./firehol-lists/esentire_crazyerror_su.ipset
 ./firehol-lists/esentire_dorttlokolrt_com.ipset
 ./firehol-lists/esentire_emptyarray_ru.ipset
+./firehol-lists/firehol_abusers_1d.netset
 ./firehol-lists/firehol_abusers_30d.netset
 ./firehol-lists/firehol_anonymous.netset
 ./firehol-lists/firehol_level2.netset
@@ -44,9 +48,7 @@
 ./firehol-lists/geolite2_country/country_si.netset
 ./firehol-lists/geolite2_country/country_sk.netset
 ./firehol-lists/geolite2_country/country_ua.netset
-./firehol-lists/gpf_comics.ipset
 ./firehol-lists/haley_ssh.ipset
-./firehol-lists/hphosts_ats.ipset
 ./firehol-lists/hphosts_emd.ipset
 ./firehol-lists/hphosts_fsa.ipset
 ./firehol-lists/hphosts_psh.ipset
@@ -112,8 +114,6 @@
 ./firehol-lists/proxylists_30d.ipset
 ./firehol-lists/proxylists_7d.ipset
 ./firehol-lists/socks_proxy_30d.ipset
-./firehol-lists/socks_proxy_7d.ipset
-./firehol-lists/sslproxies_30d.ipset
 ./firehol-lists/stopforumspam.ipset
 ./firehol-lists/stopforumspam_180d.ipset
 ./firehol-lists/stopforumspam_30d.ipset
@@ -127,4 +127,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.4qXKkFZlEp
+/tmp/tmp.LkKcRn6WXn
