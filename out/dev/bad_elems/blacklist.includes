@@ -18,7 +18,6 @@
 ./firehol-lists/cleantalk_30d.ipset
 ./firehol-lists/cleantalk_7d.ipset
 ./firehol-lists/cleantalk_new_30d.ipset
-./firehol-lists/cleantalk_new_7d.ipset
 ./firehol-lists/cleantalk_updated_30d.ipset
 ./firehol-lists/esentire_crazyerror_su.ipset
 ./firehol-lists/esentire_dorttlokolrt_com.ipset
@@ -124,6 +123,7 @@
 ./firehol-lists/proxylists_7d.ipset
 ./firehol-lists/proxyrss_30d.ipset
 ./firehol-lists/socks_proxy_30d.ipset
+./firehol-lists/socks_proxy_7d.ipset
 ./firehol-lists/stopforumspam.ipset
 ./firehol-lists/stopforumspam_180d.ipset
 ./firehol-lists/stopforumspam_30d.ipset
@@ -137,4 +137,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.QZhB9RUdTP
+/tmp/tmp.SuJEsggfzh
