@@ -5,6 +5,7 @@
 ./firehol-lists/bi_any_1_7d.ipset
 ./firehol-lists/bi_any_2_30d.ipset
 ./firehol-lists/bi_any_2_7d.ipset
+./firehol-lists/bi_ssh_0_1d.ipset
 ./firehol-lists/bi_ssh_1_7d.ipset
 ./firehol-lists/bi_ssh_2_30d.ipset
 ./firehol-lists/bi_sshd_2_30d.ipset
@@ -48,7 +49,6 @@
 ./firehol-lists/geolite2_country/country_ua.netset
 ./firehol-lists/gpf_comics.ipset
 ./firehol-lists/haley_ssh.ipset
-./firehol-lists/hphosts_ats.ipset
 ./firehol-lists/hphosts_emd.ipset
 ./firehol-lists/hphosts_fsa.ipset
 ./firehol-lists/hphosts_psh.ipset
@@ -135,4 +135,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.nYoB7WhPJ3
+/tmp/tmp.uVwqeyNKP2
