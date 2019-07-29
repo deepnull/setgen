@@ -5,6 +5,8 @@
 ./firehol-lists/bi_any_1_7d.ipset
 ./firehol-lists/bi_any_2_30d.ipset
 ./firehol-lists/bi_any_2_7d.ipset
+./firehol-lists/bi_badbots_0_1d.ipset
+./firehol-lists/bi_bruteforce_0_1d.ipset
 ./firehol-lists/bi_mail_0_1d.ipset
 ./firehol-lists/bi_postfix-sasl_0_1d.ipset
 ./firehol-lists/bi_ssh_0_1d.ipset
@@ -51,7 +53,6 @@
 ./firehol-lists/geolite2_country/country_si.netset
 ./firehol-lists/geolite2_country/country_sk.netset
 ./firehol-lists/geolite2_country/country_ua.netset
-./firehol-lists/gpf_comics.ipset
 ./firehol-lists/haley_ssh.ipset
 ./firehol-lists/hphosts_emd.ipset
 ./firehol-lists/hphosts_fsa.ipset
@@ -122,7 +123,6 @@
 ./firehol-lists/lashback_ubl.ipset
 ./firehol-lists/nullsecure.ipset
 ./firehol-lists/proxylists_30d.ipset
-./firehol-lists/proxylists_7d.ipset
 ./firehol-lists/socks_proxy_30d.ipset
 ./firehol-lists/stopforumspam.ipset
 ./firehol-lists/stopforumspam_180d.ipset
@@ -137,4 +137,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.aZAthskLiX
+/tmp/tmp.gjkjcBXZp1
