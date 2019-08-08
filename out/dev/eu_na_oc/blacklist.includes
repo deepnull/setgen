@@ -18,6 +18,7 @@
 ./firehol-lists/esentire_crazyerror_su.ipset
 ./firehol-lists/esentire_dorttlokolrt_com.ipset
 ./firehol-lists/esentire_emptyarray_ru.ipset
+./firehol-lists/esentire_maddox1_ru.ipset
 ./firehol-lists/firehol_abusers_30d.netset
 ./firehol-lists/firehol_anonymous.netset
 ./firehol-lists/firehol_level2.netset
@@ -106,7 +107,6 @@
 ./firehol-lists/ipip_country/ipip_country_sk.netset
 ./firehol-lists/ipip_country/ipip_country_ua.netset
 ./firehol-lists/lashback_ubl.ipset
-./firehol-lists/nt_ssh_7d.ipset
 ./firehol-lists/nullsecure.ipset
 ./firehol-lists/proxylists_30d.ipset
 ./firehol-lists/proxylists_7d.ipset
@@ -127,4 +127,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.IY3NABXRED
+/tmp/tmp.w3wl3tIztQ
