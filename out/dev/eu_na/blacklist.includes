@@ -3,6 +3,7 @@
 ./firehol-lists/alienvault_reputation.ipset
 ./firehol-lists/bi_any_0_1d.ipset
 ./firehol-lists/bi_any_2_30d.ipset
+./firehol-lists/bi_ssh_0_1d.ipset
 ./firehol-lists/bi_ssh_2_30d.ipset
 ./firehol-lists/bi_sshd_2_30d.ipset
 ./firehol-lists/bitcoin_nodes_30d.ipset
@@ -18,7 +19,6 @@
 ./firehol-lists/esentire_crazyerror_su.ipset
 ./firehol-lists/esentire_dorttlokolrt_com.ipset
 ./firehol-lists/esentire_emptyarray_ru.ipset
-./firehol-lists/esentire_maddox1_ru.ipset
 ./firehol-lists/firehol_abusers_30d.netset
 ./firehol-lists/firehol_anonymous.netset
 ./firehol-lists/firehol_level2.netset
@@ -131,4 +131,4 @@
 ./firehol-lists/tor_exits_7d.ipset
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
-/tmp/tmp.VFhRCLHk6e
+/tmp/tmp.mDK2rV9cgn
