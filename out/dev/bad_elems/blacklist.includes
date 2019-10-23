@@ -2,11 +2,10 @@
 ./firehol-lists/alienvault_reputation.ipset
 ./firehol-lists/alienvault_reputation.ipset
 ./firehol-lists/bi_any_0_1d.ipset
+./firehol-lists/bi_any_1_7d.ipset
 ./firehol-lists/bi_any_2_30d.ipset
-./firehol-lists/bi_ssh_0_1d.ipset
 ./firehol-lists/bi_ssh_2_30d.ipset
 ./firehol-lists/bitcoin_nodes_30d.ipset
-./firehol-lists/bitcoin_nodes_7d.ipset
 ./firehol-lists/blocklist_de.ipset
 ./firehol-lists/blocklist_de_mail.ipset
 ./firehol-lists/blocklist_net_ua.ipset
@@ -118,6 +117,7 @@
 ./firehol-lists/ipip_country/ipip_country_sk.netset
 ./firehol-lists/ipip_country/ipip_country_ua.netset
 ./firehol-lists/lashback_ubl.ipset
+./firehol-lists/nixspam.ipset
 ./firehol-lists/nullsecure.ipset
 ./firehol-lists/proxylists_30d.ipset
 ./firehol-lists/socks_proxy_30d.ipset
@@ -137,4 +137,4 @@
 ./firehol-lists/turris_greylist.ipset
 ./firehol-lists/voipbl.netset
 ./firehol-lists/yoyo_adservers.ipset
-/tmp/tmp.szCpQLeR53
+/tmp/tmp.GuisFIRZZQ
